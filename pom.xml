@@ -16,7 +16,7 @@
         <configuration>
         <testFailureIgnore>true</testFailureIgnore> <!-- added this line -->
           <suiteXmlFiles>
-            <suiteXmlFile>config/AddToCart2.xml</suiteXmlFile>
+            <suiteXmlFile>config/Team6AddToCart.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
  </plugin>
